@@ -1,5 +1,4 @@
 # Algorithm
-Algorithm-Introduction
 A
 L
 G
@@ -8,4 +7,4 @@ R
 I
 T
 H
-N
+M
